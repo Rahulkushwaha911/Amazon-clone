@@ -1,2 +1,2 @@
 # Amazon-clone
-my first repo
+My first Repository-Rahul Kushwaha
